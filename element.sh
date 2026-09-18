@@ -1,4 +1,5 @@
 #!/bin/bash
+# Periodic Table element lookup program
 
 PSQL="psql --username=freecodecamp --dbname=periodic_table -t --no-align -c"
 
